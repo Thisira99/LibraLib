@@ -1,29 +1,42 @@
        
 
-**Library Management App**
+#Library Management App                     
 
 
-This Android application helps manage a library with features for adding, viewing, editing, and deleting books, members, and lending details.
+This Android application helps manage a library with features for adding, viewing, editing, and deleting books, members, and lending details.       
+
+
+**Installation**
+
+Clone the repository.
+Open the project in Android Studio.
+Run the app on an emulator or physical device.
+
+**Usage**        
+
+Add, view, edit, and delete books, members, and lending details using the provided CRUD functions.
+Navigate between different sections using the menu.
+
+**Screen Shots**
+
+Home
+![Home](https://github.com/Thisira99/Library_system/assets/90537716/0d6f4d73-737f-4a8e-b1f3-d6e2d931d5e3)        
+
+Loging/register
+![Register](https://github.com/Thisira99/Library_system/assets/90537716/63e4c6b0-82f8-4c3f-87b2-0386f562b9d7)
+![login](https://github.com/Thisira99/Library_system/assets/90537716/1026cc34-d550-4404-92ed-8ffd113c71a5)
+
+
+Add book/ Add member
+![Register_member](https://github.com/Thisira99/Library_system/assets/90537716/e4c6613e-5aa5-4e70-9c10-2c2b4fc0eccb)
+![Add_book](https://github.com/Thisira99/Library_system/assets/90537716/eb1693b7-9803-4977-85b3-b81863e2f196)
+
+Search book/member
+![search_book](https://github.com/Thisira99/Library_system/assets/90537716/732ce197-e58f-4a9c-a404-48d5c42f0245)
+![Search_member](https://github.com/Thisira99/Library_system/assets/90537716/8c804952-a139-4332-a89b-bb775fa816f2)
 
 
 
 
 
 
-![WhatsApp Image 2024-05-10 at 16 07 07_b9a321a5](https://github.com/Thisira99/Library_system/assets/90537716/6eac7048-d345-4198-8025-60e7c43c4202)
-
-![WhatsApp Image 2024-05-10 at 16 07 06_015b9f9c](https://github.com/Thisira99/Library_system/assets/90537716/ff20de52-bfd4-4342-8557-72b2732b48af)
-
-![WhatsApp Image 2024-05-10 at 16 07 06_8d0ff20c](https://github.com/Thisira99/Library_system/assets/90537716/e1fc274b-768d-4825-aaa2-de6d9af22da4)
-
-
-![WhatsApp Image 2024-05-10 at 16 07 05_781401fd](https://github.com/Thisira99/Library_system/assets/90537716/6762e941-5c75-4c21-882c-d00815c9fea3)
-
-![WhatsApp Image 2024-05-10 at 16 07 05_80bd6adb](https://github.com/Thisira99/Library_system/assets/90537716/b57a149a-08d1-45cd-a161-10e31754d014)
-
-![WhatsApp Image 2024-05-10 at 16 07 04_d382b365](https://github.com/Thisira99/Library_system/assets/90537716/a596e840-e649-4200-b99e-6532d4daf0e8)
-
-![WhatsApp Image 2024-05-10 at 16 07 04_73805a2a](https://github.com/Thisira99/Library_system/assets/90537716/a9415423-7e2c-4284-bde2-360486e2dcbb)
-
-![WhatsApp Image 2024-05-10 at 16 07 04_956a5215](https://github.com/Thisira99/Library_system/assets/90537716/7bae8a49-b2c3-4e6e-beba-cfb9b499b82c)
-![WhatsApp Image 2024-05-10 at 16 07 03_2406441c](https://github.com/Thisira99/Library_system/assets/90537716/989b3b89-f662-4307-96d7-39996e37ae42)
