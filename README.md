@@ -3,18 +3,18 @@
 This Android application helps manage a library with features for adding, viewing, editing, and deleting books, members, and lending details.       
 
 
-**Installation**
+### **Installation**
 
 Clone the repository.
 Open the project in Android Studio.
 Run the app on an emulator or physical device.
 
-**Usage**        
+### **Usage**        
 
 Add, view, edit, and delete books, members, and lending details using the provided CRUD functions.
 Navigate between different sections using the menu.
 
-**Screen Shots**
+### **Screen Shots**
 
 Home
 ![Home](https://github.com/Thisira99/Library_system/assets/90537716/0d6f4d73-737f-4a8e-b1f3-d6e2d931d5e3)        
